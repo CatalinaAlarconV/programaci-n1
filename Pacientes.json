@@ -1,0 +1,16 @@
+[
+     {
+          "hora": "4.00", 
+          "nombre": "eli", 
+          "rut": "456789", 
+          "apellido": "perez", 
+          "doctor": "sANZANA"
+     }, 
+     {
+          "hora": "123123", 
+          "nombre": "12312123", 
+          "apellido": "asdasd", 
+          "rut": "asdasd", 
+          "doctor": "asda"
+     }
+]
